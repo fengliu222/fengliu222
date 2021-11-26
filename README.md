@@ -15,8 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+😄I'm DOCACOLA, I am currently working in the Data Science team at Sequoia Capital。
+
+🌱Current learning on early stage startups discovery.
+
+In my past programming experience, I have been better at:
+- Node.js
+- React
+- Typescript
+- Ruby
+- Python
+
+
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
