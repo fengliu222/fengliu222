@@ -29,10 +29,10 @@ In my past programming experience, I have been better at:
 
 <!--START_SECTION:waka-->
 ```text
-Other        2 hrs 34 mins   ██████████████░░░░░░░░░░░   55.47 % 
-TypeScript   1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.28 % 
-Ruby         36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-YAML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+TypeScript   3 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   36.66 % 
+Other        2 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   28.81 % 
+Ruby         1 hr 52 mins    █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+JSON         39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+YAML         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 <!--END_SECTION:waka-->
