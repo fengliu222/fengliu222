@@ -30,7 +30,7 @@ In my past programming experience, I have been better at:
 
 <!--START_SECTION:waka-->
 ```text
-Ruby    2 mins          ██████████████████████▓░░   91.22 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 Since 2021/11/29
