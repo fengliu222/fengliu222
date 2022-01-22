@@ -30,7 +30,8 @@ In my past programming experience, I have been better at:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   1 hr 1 min      ██████████████████████░░░   87.37 % 
+HTML         8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 ```
 <!--END_SECTION:waka-->
 Since 2021/11/29
