@@ -30,11 +30,11 @@ In my past programming experience, I have been better at:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   10 hrs 22 mins  ██████████████▓░░░░░░░░░░   58.58 % 
-YAML         2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Other        1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Ruby         1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-JavaScript   1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+TypeScript   8 hrs 39 mins   █████████████▓░░░░░░░░░░░   55.14 % 
+YAML         2 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Other        1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Ruby         1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+JavaScript   1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
 <!--END_SECTION:waka-->
 Since 2021/11/29
