@@ -31,10 +31,7 @@ In my past programming experience, I have been better at:
 <!--START_SECTION:waka-->
 
 ```text
-YAML         48 mins         ██████████░░░░░░░░░░░░░░░   40.56 %
-Ruby         44 mins         █████████▒░░░░░░░░░░░░░░░   37.62 %
-Bash         14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-TypeScript   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
